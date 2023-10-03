@@ -29,6 +29,15 @@ This is a simple console-based Library Management System written in C++. It allo
 - List users by their unique ID or name.
 - List books borrowed by a specific user.
 
+
+## Demo
+![1](https://github.com/khaledGadelhaQ/Library-Management-System-Project/assets/120754711/7b452330-29b8-4306-8142-73544f439acd) ![2](https://github.com/khaledGadelhaQ/Library-Management-System-Project/assets/120754711/d2c9f036-eca8-47d7-8b4a-acbccfcbf96d) ![3](https://github.com/khaledGadelhaQ/Library-Management-System-Project/assets/120754711/452face6-eb28-4564-bdd6-8d65c13a7eee) ![4](https://github.com/khaledGadelhaQ/Library-Management-System-Project/assets/120754711/1881a0f2-455b-42f0-9d5f-522898e79746) ![5](https://github.com/khaledGadelhaQ/Library-Management-System-Project/assets/120754711/7bb66332-6e39-469d-a246-a9b4fb9076b9) ![6](https://github.com/khaledGadelhaQ/Library-Management-System-Project/assets/120754711/7bb29599-e4ee-41e9-adb4-f635fc9fc4f7)
+
+
+
+
+
+
 ## Usage
 
 1. When you run the program, you will be presented with a menu of options.

@@ -5,6 +5,7 @@ This is a simple console-based Library Management System written in C++. It allo
 ## Table of Contents
 - [Technologies](#technologies)
 - [Features](#features)
+- [Demo](#demo)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
